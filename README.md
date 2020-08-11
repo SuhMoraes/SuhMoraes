@@ -2,7 +2,7 @@
 #### Meu nome é Suhailah de Moraes e seja bem vindo ao meu GitHub. 
   
   
-:computer: Estudo Tecnólogo em Análise de Desenvolvimento de Sistemas | **_Faculdade Impacta_**
+:computer: Cursando Tecnólogo em Análise de Desenvolvimento de Sistemas | **_Faculdade Impacta_**
   
 :trophy: Finalista do Projeto da **_Recode Pro_**.
 
