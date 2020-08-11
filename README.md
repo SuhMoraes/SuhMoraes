@@ -1,5 +1,5 @@
 # Olá :wave:, tudo bem?
-#### Meu nome é Suhailah Moraes e seja bem vindo ao meu GitHub. 
+#### Meu nome é Suhailah de Moraes e seja bem vindo ao meu GitHub. 
   
   
 :computer: Estudo Tecnólogo em Análise de Desenvolvimento de Sistemas | **_Faculdade Impacta_**
