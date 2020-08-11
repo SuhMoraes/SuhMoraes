@@ -1,4 +1,4 @@
-# Olá, tudo bem?
+# Olá :wave:, tudo bem?
 #### Meu nome é Suhailah Moraes e seja bem vindo ao meu GitHub. 
   
   
