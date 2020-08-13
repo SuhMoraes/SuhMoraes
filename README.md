@@ -2,14 +2,11 @@
 ### Meu nome é Suhailah e seja bem vindo ao meu GitHub. 
   
   
-:computer: Cursando Tecnólogo em Análise de Desenvolvimento de Sistemas | **_Faculdade Impacta_**
-  
-:trophy: Finalista do Projeto da **_Recode Pro_**.
-
-  
+:computer: Cursando Tecnólogo em Análise de Desenvolvimento de Sistemas | **_Faculdade Impacta_**  
+:trophy: Finalista do Projeto da **_Recode Pro_**.  
 :rocket: Começando a minha jornada como **_Programador Full Stack_**
-
 ![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=29&color=currentColor) ![CSS5](https://icongr.am/devicon/css3-original-wordmark.svg?size=29&color=currentColor)
+
  
  
    **"Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecimento."🧠**
