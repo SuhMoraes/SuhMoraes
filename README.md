@@ -6,6 +6,7 @@
 :computer: Cursando Tecnólogo em Análise de Desenvolvimento de Sistemas | **_Faculdade Impacta_**  
 :trophy: Finalista do Projeto da **_Recode Pro_**.  
 :rocket: Começando a minha jornada como **_Programador Full Stack_**
+
 ![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=29&color=currentColor) ![CSS5](https://icongr.am/devicon/css3-original-wordmark.svg?size=29&color=currentColor)
 
  
