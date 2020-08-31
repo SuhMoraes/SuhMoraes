@@ -7,7 +7,7 @@
 :trophy: Finalista do Projeto da **_Recode Pro_**.  
 :rocket: Começando a minha jornada como **_Programador Full Stack_**
 
-![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=29&color=currentColor) ![CSS5](https://icongr.am/devicon/css3-original-wordmark.svg?size=29&color=currentColor)
+![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=29&color=currentColor) ![CSS5](https://icongr.am/devicon/css3-original-wordmark.svg?size=29&color=currentColor) ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=29&color=currentColor) ![NodeJs](https://icongr.am/devicon/nodejs-original.svg?size=29&color=currentColor)
 
  
  
