@@ -8,7 +8,7 @@
   
 :computer: Cursando Tecnólogo em Análise de Desenvolvimento de Sistemas | **_Faculdade Impacta_**  
 :trophy: Finalista do Projeto da **_Recode Pro_**.  
-:rocket: Começando a minha jornada como **_Programador Full Stack_**
+:rocket: Começando a minha jornada como **_Programador Full Stack - RecodePro_**
 
 
 |Linguagem  |  Nível de conhecimento  |
