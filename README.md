@@ -20,4 +20,7 @@
 
    **"Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecimento."🧠**
    
+   img src="https://github-readme-stats.vercel.app/api?username=suhmoreas&show_icons=true" alt="suhailahmoraes" /> </p>
+
+   
 
