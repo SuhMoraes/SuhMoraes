@@ -17,7 +17,6 @@
   </p>  
 
 <h3>Olá 👋</h3>
-
 <hr>
 
 <p>😀 Olá, meu nome é <b>Suhailah Moraes</b> e estou começando nessa jornada de trazer soluções a problemas existentes.</p>
