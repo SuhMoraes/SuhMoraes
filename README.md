@@ -16,14 +16,11 @@
    </a>   
   </p>  
 
-<p align="center"><b>Meu nome é Suhailah e seja bem vindo ao meu GitHub.</b></p>  
+<p><b>Meu nome é Suhailah e seja bem vindo ao meu GitHub.</b></p> 
 
-###
-👨‍💻 Cursando Tecnólogo em Análise de Desenvolvimento de Sistemas | **_Faculdade Impacta_**  
-:trophy:<p align="center"> Finalista do Projeto da **_Recode Pro_**.  
-:rocket: Começando a minha jornada como **_Programador Full Stack - RecodePro_**
-  
 
+<h6>🚀 Cursando tecnólogo em Análise de Desenvolvimento de Sistemas na Faculdade Impacta </h6>
+<h6>🚀 Finalista do projeto da Recode Pro, o que me garantiu uma bolsa de estudos Programador Full Stack.</h6>
 
   
   <hr>
@@ -32,10 +29,8 @@
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhmoraes&layout=compact)](https://github.com/suhmoraes/github-readme-stats)   
    ![Suh Moraes github stats](https://github-readme-stats.vercel.app/api?username=suhmoraes&theme=tokyonight&show_icons=true) 
  
- 
 
-   **"Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecimento."🧠**
-   
+     
    
 <hr>
 
@@ -54,9 +49,11 @@
      <a href="https://git-scm.com/">
          <img src="https://icongr.am/devicon/git-original.svg?size=70&color=currentColor">
       <a href ="https://www.mysql.com/">
-         <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=70&color=currentColor">
-         
+         <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=70&color=currentColor">         
   </p>
+       
+       
+       
      
 
    **"Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecimento."🧠**
