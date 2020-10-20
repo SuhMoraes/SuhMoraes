@@ -1,4 +1,4 @@
-# Olá :wave:, tudo bem?
+# Suhailah Moraes
   
 
 <p>
@@ -16,9 +16,11 @@
    </a>   
   </p>  
 
-<p><b>Meu nome é Suhailah e seja bem vindo ao meu GitHub.</b></p> 
+<h3>Olá 👋</h3>
 
+<hr>
 
+<p>😀 Olá, meu nome é <b>Suhailah Moraes</b> e estou começando nessa jornada de trazer soluções a problemas existentes.</p>
 <p>🚀 Cursando tecnólogo em Análise de Desenvolvimento de Sistemas na <b>Faculdade Impacta</b> </p>
 <p>🚀 Finalista do projeto da <b> Recode Pro </b>, o que me garantiu uma <b>bolsa de estudos Programador Full Stack.</b></p>
 
