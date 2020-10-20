@@ -19,17 +19,15 @@
 <p><b>Meu nome é Suhailah e seja bem vindo ao meu GitHub.</b></p> 
 
 
-<h6>🚀 Cursando tecnólogo em Análise de Desenvolvimento de Sistemas na Faculdade Impacta </h6>
-<h6>🚀 Finalista do projeto da Recode Pro, o que me garantiu uma bolsa de estudos Programador Full Stack.</h6>
+<p>🚀 Cursando tecnólogo em Análise de Desenvolvimento de Sistemas na <b>Faculdade Impacta</b> </p>
+<p>🚀 Finalista do projeto da <b> Recode Pro </b>, o que me garantiu uma <b>bolsa de estudos Programador Full Stack.</b></p>
+
 
   
   <hr>
 
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhmoraes&layout=compact)](https://github.com/suhmoraes/github-readme-stats)   
-   ![Suh Moraes github stats](https://github-readme-stats.vercel.app/api?username=suhmoraes&theme=tokyonight&show_icons=true) 
- 
-
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhmoraes&layout=compact)](https://github.com/suhmoraes/github-readme-stats)![Suh Moraes github stats](https://github-readme-stats.vercel.app/api?username=suhmoraes&theme=tokyonight&show_icons=true) 
      
    
 <hr>
@@ -42,13 +40,13 @@
   <a href="https://www.w3schools.com/html/">
     <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=70&color=currentColor">
     
-   <a href="https://www.w3schools.com/css/">
+  <a href="https://www.w3schools.com/css/">
      <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=70&color=currentColor"     
-    <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">
       <img src="https://icongr.am/devicon/javascript-original.svg?size=70&color=currentColor">      
-     <a href="https://git-scm.com/">
+  <a href="https://git-scm.com/">
          <img src="https://icongr.am/devicon/git-original.svg?size=70&color=currentColor">
-      <a href ="https://www.mysql.com/">
+   <a href ="https://www.mysql.com/">
          <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=70&color=currentColor">         
   </p>
        
@@ -56,8 +54,7 @@
        
      
 
-   **"Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecimento."🧠**
-   
+<h3>"Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecimento."🧠</h3>   
   
    
 
