@@ -29,9 +29,7 @@
  
 
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhmoraes&layout=compact)](https://github.com/suhmoraes/github-readme-stats)
-   
-   ![Suh Moraes github stats](https://github-readme-stats.vercel.app/api?username=suhmoraes&theme=tokyonight&show_icons=true) 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhmoraes&layout=compact&theme=tokyonight)](https://github.com/suhmoraes/github-readme-stats)![Suh Moraes github stats](https://github-readme-stats.vercel.app/api?username=suhmoraes&theme=tokyonight&show_icons=true) 
    
    
 
