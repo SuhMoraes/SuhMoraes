@@ -53,8 +53,13 @@
          <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=50&color=currentColor">       
    <a href="https://github.com/">
          <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=50&color=currentColor">
-     <a href="https://www.php.net/manual/pt_BR/intro-whatis.php">
-         <img src="https://icongr.am/devicon/php-original.svg?size=59&color=currentColor">
+   <a href="https://www.php.net/manual/pt_BR/intro-whatis.php">
+         <img src="https://icongr.am/devicon/php-original.svg?size=59&color=currentColor">     
+   <a href="https://www.jetbrains.com/">
+         <img src="https://icongr.am/devicon/pycharm-original.svg?size=50&color=currentColor">     
+    <a href="https://www.python.org/">
+         <img src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor">
+       
      
   </p>
        
