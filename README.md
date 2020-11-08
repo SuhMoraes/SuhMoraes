@@ -41,24 +41,24 @@
 <p align="center">
   
   <a href="https://www.w3schools.com/html/">
-    <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=20&color=currentColor">
+    <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=30&color=currentColor">
     
   <a href="https://www.w3schools.com/css/">
-     <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=20&color=currentColor"     
+     <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=30&color=currentColor"     
   <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">
-      <img src="https://icongr.am/devicon/javascript-original.svg?size=20&color=currentColor">      
+      <img src="https://icongr.am/devicon/javascript-original.svg?size=30&color=currentColor">      
   <a href="https://git-scm.com/">
-         <img src="https://icongr.am/devicon/git-original.svg?size=20&color=currentColor">
+         <img src="https://icongr.am/devicon/git-original.svg?size=30&color=currentColor">
    <a href ="https://www.mysql.com/">
-         <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=20&color=currentColor">       
+         <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=300&color=currentColor">       
    <a href="https://github.com/">
-         <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=20&color=currentColor">
+         <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=30&color=currentColor">
    <a href="https://www.php.net/manual/pt_BR/intro-whatis.php">
-         <img src="https://icongr.am/devicon/php-original.svg?size=20&color=currentColor">     
+         <img src="https://icongr.am/devicon/php-original.svg?size=30&color=currentColor">     
    <a href="https://www.jetbrains.com/">
-         <img src="https://icongr.am/devicon/pycharm-original.svg?size=20&color=currentColor">     
+         <img src="https://icongr.am/devicon/pycharm-original.svg?size=30&color=currentColor">     
     <a href="https://www.python.org/">
-         <img src="https://icongr.am/devicon/python-original.svg?size=20&color=currentColor">
+         <img src="https://icongr.am/devicon/python-original.svg?size=30&color=currentColor">
        
      
   </p>
