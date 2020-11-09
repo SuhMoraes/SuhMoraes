@@ -59,6 +59,14 @@
          <img src="https://icongr.am/devicon/pycharm-original.svg?size=30&color=currentColor">     
     <a href="https://www.python.org/">
          <img src="https://icongr.am/devicon/python-original.svg?size=30&color=currentColor">
+      <a href="https://getbootstrap.com.br/">
+         <img src= "https://icongr.am/devicon/bootstrap-plain.svg?size=30&color=7e4acb">
+         <a href="https://pt-br.reactjs.org/">
+         <img src="https://icongr.am/devicon/react-original.svg?size=30&color=7e4acb">
+      
+     
+
+
        
      
   </p>
