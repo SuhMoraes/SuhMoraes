@@ -3,10 +3,10 @@
 
 <p>
   <a href="https://www.linkedin.com/in/suhailah-concei%C3%A7%C3%A3o-43069a150/">
-    <img src="https://github.com/SuhMoraes/SuhMoraes/blob/master/linkedin.png" alt ="Linkedin Suhailah Conceição" width="30px">
-   </a>
+    <img src="https://github.com/SuhMoraes/SuhMoraes/blob/master/linkedin.png" alt ="Linkedin Suhailah Conceição" width="20px"> <a>
+ 
   <a href="mailto:dev.suhmoraes@gmail.com">
-    <img src="https://raw.githubusercontent.com/SuhMoraes/SuhMoraes/master/gmail.png" alt ="Linkedin Suhailah Conceição" width="30px">
+    <img src="https://raw.githubusercontent.com/SuhMoraes/SuhMoraes/master/gmail.png" alt ="Linkedin Suhailah Conceição" width="20px"> 
    </a>   
   </p> 
   
