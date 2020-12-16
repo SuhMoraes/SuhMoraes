@@ -3,16 +3,10 @@
 
 <p>
   <a href="https://www.linkedin.com/in/suhailah-concei%C3%A7%C3%A3o-43069a150/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suhailah-concei%C3%A7%C3%A3o-43069a150/"
-         alt ="Linkedin Suhailah Conceição"
-         width="80px"
-         style="border-radius: 3px";>
+    <img src="https://github.com/SuhMoraes/SuhMoraes/blob/master/linkedin.png" alt ="Linkedin Suhailah Conceição" width="30px">
    </a>
   <a href="mailto:dev.suhmoraes@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.suhmoraes@gmail.com"
-         alt ="Linkedin Suhailah Conceição"
-         width="65px"
-         style="border-radius: 3px";>
+    <img src="https://raw.githubusercontent.com/SuhMoraes/SuhMoraes/master/gmail.png" alt ="Linkedin Suhailah Conceição" width="30px">
    </a>   
   </p> 
   
