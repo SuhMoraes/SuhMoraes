@@ -31,7 +31,7 @@
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhmoraes&layout=compact&theme=tokyonight)](https://github.com/suhmoraes/github-readme-stats)![Suh Moraes github stats](https://github-readme-stats.vercel.app/api?username=suhmoraes&theme=tokyonight&show_icons=true) 
    
-   
+   ![SuhMoraes View](https://komarev.com/ghpvc/?username=SuhMoraes-github-username&style=plastic)
 
 <hr>
 
