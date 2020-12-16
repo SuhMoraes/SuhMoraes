@@ -14,7 +14,16 @@
          width="65px"
          style="border-radius: 3px";>
    </a>   
-  </p>  
+  </p> 
+  
+  <center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhMoraes&hide=html&layout=compact&theme=tokyonight" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=SuhMoraes&theme=tokyonight"/></td>
+    </tr>   
+</table>
+</center>  
 
 <h3>Olá 👋</h3>
 
@@ -26,11 +35,7 @@
 
   
   <hr>
- 
-
-
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhmoraes&layout=compact&theme=tokyonight)](https://github.com/suhmoraes/github-readme-stats)![Suh Moraes github stats](https://github-readme-stats.vercel.app/api?username=suhmoraes&theme=tokyonight&show_icons=true) 
-   
+  
    ![SuhMoraes View](https://komarev.com/ghpvc/?username=SuhMoraes-github-username&style=plastic)
 
 <hr>
