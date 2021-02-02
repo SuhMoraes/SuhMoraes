@@ -17,7 +17,6 @@
 
 
 <p>😀 Olá, meu nome é <b>Suhailah Moraes</b> e estou começando nessa jornada de trazer soluções a problemas existentes.</p>
-<p>🚀 Cursando tecnólogo em Análise de Desenvolvimento de Sistemas na <b>Faculdade Impacta</b> </p>
 <p>🚀 Finalista do projeto da <b> Recode Pro </b>, o que me garantiu uma <b>bolsa de estudos Programador Full Stack.</b></p>
 
 
