@@ -20,7 +20,7 @@
 <p>Minha jornada no mundo Dev, foi bem diferente dos demais.</p>
 
 </p>
-Em 2019 trabalhava em uma empresa a onde foi apresentado a plataforma WordPress após o responsável do marketing ser desligar da empresa, <br/>e colocaram-me como responsável pela organização do site da empresa, mesmo não conhecendo a plataforma. Porém corri atrás em aprender e consegui com sucesso atualizar o site.  Alguns meses depois a esse fato, a empresa fechou.  
+Em 2019 trabalhava em uma empresa a onde foi apresentado a plataforma WordPress após o responsável do marketing ser desligado da empresa, <br/>e colocaram-me como responsável pela organização do site da empresa, mesmo não conhecendo a plataforma. Porém corri atrás em aprender e consegui com sucesso atualizar o site.  Alguns meses depois a esse fato, a empresa fechou.  
 Desde então me apaixonei por essa área,  a qual tenho estudando para transformar essa paixão em casamento, com a oportunidade em trabalhar na área de tecnologia.❤️
 </p>
 
