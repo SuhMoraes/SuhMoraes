@@ -4,7 +4,7 @@
 
 <span>
   <a href="https://bit.ly/linkedin-suhmoraes">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=gmail&logoColor=white" alt ="Linkedin Suhailah Conceição"> <a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt ="Linkedin Suhailah Conceição"> <a>
    
  
   <a href="mailto:dev.suhmoraes@gmail.com">
