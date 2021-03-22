@@ -3,7 +3,7 @@
   
 
 <span>
-  <a href="https://www.linkedin.com/in/suhailah-concei%C3%A7%C3%A3o-43069a150/">
+  <a href="https://bit.ly/linkedin-suhmoraes">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=gmail&logoColor=white" alt ="Linkedin Suhailah Conceição"> <a>
    
  
@@ -16,7 +16,7 @@
 <h3>Olá 👋</h3>
 
 
-<a href="https://gitconnected.com/suhmoraes/resume">
+<a href="http://bit.ly/curriculo-resume">
     Acesse o meu currículo.
   </a>
   
