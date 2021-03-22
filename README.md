@@ -1,3 +1,4 @@
+
 # Suhailah Alves de Moraes
   
 
@@ -10,18 +11,22 @@
     <img src="https://raw.githubusercontent.com/SuhMoraes/SuhMoraes/master/gmail.png" alt ="Linkedin Suhailah Conceição" width="20px"> 
    </a>   
   </p> 
-  
-  
+
 
 <h3>Olá 👋</h3>
 
 
 
-<p>Minha jornada no mundo Dev, foi bem diferente dos demais.</p>
-
+<p>
+  Meu nome é Suhailah de Moraes e sou residente de Ibiporã e curso Tecnólogo em Análise e Desenvolvimento de Sistemas.<br />
+  Me apaixonei na área de <bold>Desenvolvimento de Sistemas</bold> quando em 2019 comecei a  trabalhar em uma empresa na onde foi apresentado a plataforma WordPress após o responsável do marketing ser desligado da empresa. Colocaram-me como responsável pela organização do site, mesmo nunca ter ouvido falar sobre a plataforma.
+  
 </p>
-Em 2019 trabalhava em uma empresa a onde foi apresentado a plataforma WordPress após o responsável do marketing ser desligado da empresa, e colocaram-me como responsável pela organização do site da empresa, mesmo não conhecendo a plataforma.
-<br/>
+<img align="right" src="https://ik.imagekit.io/fp3xx2hhnq/4799410_4llC6oD-S.jpg" width="500px"/> 
+
+
+<br/>  
+
 Porém corri atrás em aprender e consegui com sucesso atualizar o site.  Alguns meses depois a esse fato, a empresa fechou.  
 Desde então me apaixonei por essa área,  a qual tenho estudando para transformar essa paixão em casamento, com a oportunidade em trabalhar na área de tecnologia.❤️
 </p>
