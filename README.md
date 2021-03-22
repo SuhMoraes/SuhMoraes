@@ -29,8 +29,8 @@
 
 <br/>  
 
-Porém corri atrás em aprender e consegui com sucesso atualizar o site.  Alguns meses depois a esse fato, a empresa fechou.  
-Terminei o curso de Desenvolvedor Full Stack. Um curso completo com 540 horas abordando várias linguagens, trabalho em equipe. Nesse curso também, desenvolvemos uma página web e um aplicativo, voltado para um dos Objetivos de Desenvolvimentos Sustentável da ONU.
+Porém corri atrás em aprender e consegui com sucesso atualizar o site.  Alguns meses depois a esse fato, a empresa fechou. E desde então venho estudando programação.   
+Concluí o curso de Desenvolvedor Full Stack. Um curso completo com 540 horas abordando várias linguagens, trabalho em equipe. Nesse curso também, desenvolvemos uma página web e um aplicativo, voltado para um dos Objetivos de Desenvolvimentos Sustentável da ONU.
 </p>
 <br />
 
@@ -65,7 +65,7 @@ Terminei o curso de Desenvolvedor Full Stack. Um curso completo com 540 horas ab
 <br /> 
 
 <p><strong>Curiosidades sobre mim:</strong></p>
-<p>🎓 Participei da formação de programador fullstack pelo programa RecodePro.</p>
+<p>🎓 Participei da formação de Desenvolvedor full stack pelo programa RecodePro.</p>
 <p>🎮 Fortnite, Pes 2020, FIFA 2019, Need for Speed e GTA (Jogo quando posso) </p>
 <p>📖 No momento estou lendo JavaScript - O guia definitivo </p>
 <br />
