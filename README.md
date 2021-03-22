@@ -22,15 +22,19 @@
   <br />
   <img align="right" src="https://ik.imagekit.io/fp3xx2hhnq/4880440-removebg-preview_aTroWVORt.png" width="400px"/> 
 
-  Me apaixonei na área de <strong>Desenvolvimento de Sistemas</strong> quando em 2019 comecei a  trabalhar em uma empresa na onde foi apresentado a plataforma WordPress, após o responsável do marketing ser desligado da empresa. E colocaram-me como responsável pela organização do site, mesmo nunca ter ouvido falar sobre a plataforma.
+  Me apaixonei pela área de <strong>Desenvolvimento de Sistemas</strong> quando em 2019 comecei a  trabalhar em uma empresa na onde foi apresentado a plataforma WordPress. Após o responsável do marketing ser desligado da empresa, colocaram-me como responsável pela organização do site, mesmo nunca ter ouvido falar sobre essa a plataforma e desenvolvimento de sites.
   
 </p>
 
 
 <br/>  
 
-Porém corri atrás em aprender e consegui com sucesso atualizar o site.  Alguns meses depois a esse fato, a empresa fechou. E desde então venho estudando programação.   
-Concluí o curso de Desenvolvedor Full Stack. Um curso completo com 540 horas abordando várias linguagens, trabalho em equipe. Nesse curso também, desenvolvemos uma página web e um aplicativo, voltado para um dos Objetivos de Desenvolvimentos Sustentável da ONU.
+<p>
+  Portanto fui em busca do conhecimento e consegui com sucesso atualizar o site.  Alguns meses depois a esse fato, a empresa acabou fechando. E desde então venho estudando programação.   
+<br/>
+Concluí o curso de Desenvolvedor Full Stack. Um curso completo com 540 horas abordando várias linguagens front end e back end, como habilidades práticas como: trabalho em equipe, colaboração, senso crítico e empatia.
+<br/>
+Nesse curso também, desenvolvemos uma página web e um aplicativo, voltado para um dos Objetivos de Desenvolvimentos Sustentável da ONU.
 </p>
 <br />
 
