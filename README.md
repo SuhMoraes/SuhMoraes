@@ -62,16 +62,17 @@ Nesse curso também, desenvolvemos uma página web e um aplicativo, voltado para
   <img src="https://img.shields.io/badge/Git-FE7A16?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-3776AB?style=flat&logo=Visual-Studio-Code&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Eclipse-430098?style=flat&logo=eclipse&logoColor=white"/>
-  
-  
+  <img src="https://img.shields.io/badge/Eclipse-430098?style=flat&logo=eclipse&logoColor=white"/>  
 </span>
 <br /> 
+<br />
+
 
 <p><strong>Curiosidades sobre mim:</strong></p>
 <p>🎓 Participei da formação de Desenvolvedor full stack pelo programa RecodePro.</p>
 <p>🎮 Fortnite, Pes 2020, FIFA 2019, Need for Speed e GTA (Jogo quando posso) </p>
 <p>📖 No momento estou lendo JavaScript - O guia definitivo </p>
+<p>☁️ Quero aprender a ensinar</p>
 <br />
 
 
