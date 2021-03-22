@@ -22,7 +22,7 @@
   Me apaixonei na área de <bold>Desenvolvimento de Sistemas</bold> quando em 2019 comecei a  trabalhar em uma empresa na onde foi apresentado a plataforma WordPress após o responsável do marketing ser desligado da empresa. Colocaram-me como responsável pela organização do site, mesmo nunca ter ouvido falar sobre a plataforma.
   
 </p>
-<img align="right" src="https://ik.imagekit.io/fp3xx2hhnq/4799410_4llC6oD-S.jpg" width="500px"/> 
+<img align="right" src="https://ik.imagekit.io/fp3xx2hhnq/4880440_aMDK4iAIWj.jpg" width="500px"/> 
 
 
 <br/>  
