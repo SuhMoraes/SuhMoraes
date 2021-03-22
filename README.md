@@ -2,22 +2,26 @@
 # Suhailah Alves de Moraes
   
 
-<p>
+<span>
   <a href="https://www.linkedin.com/in/suhailah-concei%C3%A7%C3%A3o-43069a150/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=gmail&logoColor=white" alt ="Linkedin Suhailah Conceição"> <a>
    
  
   <a href="mailto:dev.suhmoraes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt ="Linkedin Suhailah Conceição" > 
-   </a>   
-  </p> 
-
+   </a>    
+  
+ </span> 
 
 <h3>Olá 👋</h3>
 
 
-
+<a href="https://gitconnected.com/suhmoraes/resume">
+    Acesse o meu currículo.
+  </a>
+  
 <p>
+  
   Meu nome é Suhailah Alves de Moraes e resido em Ibiporã, Paraná. <strong>Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.</strong>
   <br />
   <img align="right" src="https://ik.imagekit.io/fp3xx2hhnq/4880440-removebg-preview_aTroWVORt.png" width="400px"/> 
