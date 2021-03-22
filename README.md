@@ -18,7 +18,7 @@
 
 
 <p>
-  Meu nome é Suhailah Alves de Moraes e sou resido em Ibiporã, Paraná. <strong>Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.</strong>
+  Meu nome é Suhailah Alves de Moraes e resido em Ibiporã, Paraná. <strong>Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.</strong>
   <br />
   <img align="right" src="https://ik.imagekit.io/fp3xx2hhnq/4880440-removebg-preview_aTroWVORt.png" width="400px"/> 
 
