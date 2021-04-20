@@ -75,7 +75,7 @@ Nesse curso também, desenvolvemos uma página web e um aplicativo, voltado para
 <p><strong>Curiosidades sobre mim:</strong></p>
 <p>🎓 Participei da formação de Desenvolvedor full stack pelo programa RecodePro.</p>
 <p>🎮 Fortnite, Pes 2020, FIFA 2019, Need for Speed e GTA (Jogo quando posso) </p>
-<p>📖 No momento estou lendo JavaScript - O guia definitivo </p>
+<p>📖 Precisando atualizar as minha leitura </p>
 <p>☁️ Quero aprender a ensinar</p>
 <br />
 
