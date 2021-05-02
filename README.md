@@ -67,6 +67,7 @@ Nesse curso também, desenvolvemos uma página web e um aplicativo, voltado para
   <img src="https://img.shields.io/badge/Visual_Studio_Code-3776AB?style=flat&logo=Visual-Studio-Code&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Eclipse-430098?style=flat&logo=eclipse&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/SpringTool-23b164?style=flat&logo=spring&logoColor=white"/>  
 </span>
 <br /> 
 <br />
