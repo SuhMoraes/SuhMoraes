@@ -28,7 +28,8 @@
  <img align="right" src="https://ik.imagekit.io/fp3xx2hhnq/4880440-removebg-preview_aTroWVORt.png" width="400px"/> 
  
  <p>
-  Me apaixonei pela área de <strong>Desenvolvimento de Sistemas</strong> quando em 2019 comecei a  trabalhar em uma empresa na onde foi apresentado a plataforma WordPress. 
+  Me apaixonei pela área de <strong>Desenvolvimento de Sistemas</strong> quando em 2019 comecei a  trabalhar em uma empresa na onde foi apresentado a plataforma WordPress.  <br />
+  E desde então venho buscado conhecimento e estudado muito na área da programação.
 </p>
 
 
