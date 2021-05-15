@@ -1,5 +1,5 @@
 
-# Suhailah Alves de Moraes
+<h1 align="center">Olá 👋, eu sou a Suhailah Moraes</h1>
   
 
 <span>
@@ -12,8 +12,8 @@
    </a>    
   
  </span> 
+  <br />
 
-<h3>Olá 👋</h3>
 
 
 <a href="http://bit.ly/curriculo-resume">
@@ -22,9 +22,8 @@
   
 <p>
   
-  Meu nome é Suhailah Alves de Moraes e resido em Ibiporã, Paraná. <strong>Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.</strong>
-  <br />
- </p>
+  Meu nome é Suhailah Alves de Moraes e resido em Ibiporã, Paraná. <strong>Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas</strong>, na Unopar.    <br /> 
+  E também estou estudando Spring e React no Bootcamp da <strong>Devsuperior</strong></p>
  
  <img align="right" src="https://ik.imagekit.io/fp3xx2hhnq/4880440-removebg-preview_aTroWVORt.png" width="400px"/> 
  
@@ -50,6 +49,7 @@ Nesse curso também, desenvolvemos uma página web e um aplicativo, voltado para
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <br />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
