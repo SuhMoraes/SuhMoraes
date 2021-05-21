@@ -25,25 +25,27 @@
   Meu nome é Suhailah Alves de Moraes e resido em Ibiporã, Paraná. <strong>Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas</strong>, na Unopar.    <br /> 
   E também estou estudando Spring e React no Bootcamp da <strong>Devsuperior</strong></p>
  
- <img align="right" src="https://ik.imagekit.io/fp3xx2hhnq/4880440-removebg-preview_aTroWVORt.png" width="400px"/> 
- 
- <p>
-  Me apaixonei pela área de <strong>Desenvolvimento de Sistemas</strong> quando em 2019 comecei a  trabalhar em uma empresa na onde foi apresentado a plataforma WordPress.  <br />
-  E desde então venho buscado conhecimento e estudado muito na área da programação.
-</p>
 
 
-<br/>  
 
-<p>  
-Concluí o curso de Desenvolvedor Full Stack. Um curso completo com 540 horas abordando várias linguagens front end e back end, como habilidades práticas como: trabalho em equipe, colaboração, senso crítico e empatia.
-<br/>
-Nesse curso também, desenvolvemos uma página web e um aplicativo, voltado para um dos Objetivos de Desenvolvimentos Sustentável da ONU.
-</p>
+
+
+
+<p><strong>Curiosidades sobre mim:</strong></p>
+<p>🎓 Participei da formação de Desenvolvedor full stack pelo programa RecodePro.</p>
+<p>🎓 Estudando Spring e React com  DevSuperior.</p>
+<p>📖 Precisando atualizar as minha leitura </p>
+<p>🎮 Fortnite, Pes 2020, FIFA 2019, Need for Speed e GTA (Jogo quando posso) </p>
+<p>☁️ Quero aprender a ensinar</p>
 <br />
 
 
-<p><strong>👨🏽‍💻Hard Skills:</strong></p>
+
+_💭 "Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecimento." 💭_
+
+<p>Albert Einstein</P>
+ <br>
+  <p><strong>👨🏽‍💻Hard Skills:</strong></p>
 <span>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -72,20 +74,6 @@ Nesse curso também, desenvolvemos uma página web e um aplicativo, voltado para
 </span>
 <br /> 
 <br />
-
-
-<p><strong>Curiosidades sobre mim:</strong></p>
-<p>🎓 Participei da formação de Desenvolvedor full stack pelo programa RecodePro.</p>
-<p>🎮 Fortnite, Pes 2020, FIFA 2019, Need for Speed e GTA (Jogo quando posso) </p>
-<p>📖 Precisando atualizar as minha leitura </p>
-<p>☁️ Quero aprender a ensinar</p>
-<br />
-
-
-
-_💭 "Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecimento." 💭_
-
-<p>Albert Einstein</P>
  
 
 
