@@ -68,7 +68,7 @@ _💭 "Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecime
   <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Eclipse-430098?style=flat&logo=eclipse&logoColor=white"/>  
   <img src="https://img.shields.io/badge/SpringTool-23b164?style=flat&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Intellij-23b164?style=flat&logo=intellij&logoColor=purple"/>  
+  <img src="https://img.shields.io/badge/Intellij-751F83?style=flat&logo=intellij&logoColor=purple"/>  
 </span>
 <br /> 
 <br />
