@@ -14,15 +14,12 @@
  </span> 
   <br />
 
-
-
-<a href="http://bit.ly/curriculo-resume">
-    Acesse o meu currículo.
-  </a>
   
 <p>
   
-  Meu nome é Suhailah Alves de Moraes e moro na região de Londrina, Paraná. <strong>Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas</strong>, na Unopar.    <br /> 
+  Meu nome é Suhailah Alves de Moraes e moro na região de Londrina, Paraná. <br />
+  Cursando 2° Semestre <strong> Tecnólogo em Análise e Desenvolvimento de Sistemas</strong>, na Unopar. <br /> 
+  Atualmente sou Dev Java Junior, na empresa Escola Conquer  <br /> 
   E também estou estudando Spring e React no Bootcamp da <strong>Devsuperior</strong></p>
  
 
@@ -34,7 +31,7 @@
 <p><strong>Curiosidades sobre mim:</strong></p>
 <p>🎓 Participei da formação de Desenvolvedor full stack pelo programa RecodePro.</p>
 <p>🎓 Estudando Spring e React com  DevSuperior.</p>
-<p>📖 Precisando atualizar as minha leitura </p>
+<p>📖 Java para iniciantes - Oracle </p>
 <p>🎮 Fortnite, Pes 2020, FIFA 2019, Need for Speed e GTA (Jogo quando posso) </p>
 <p>☁️ Quero aprender a ensinar</p>
 <br />
