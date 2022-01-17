@@ -18,7 +18,7 @@
 <p>
   
   Meu nome é Suhailah Alves de Moraes e moro na região de Londrina, Paraná. <br />
-  Cursando 2° Semestre <strong> Tecnólogo em Análise e Desenvolvimento de Sistemas</strong>, na Unopar. <br /> 
+  Cursando 3° Semestre <strong> Tecnólogo em Análise e Desenvolvimento de Sistemas</strong>, na Unopar. <br /> 
   Atualmente sou Dev Java Junior, na empresa Escola Conquer  <br /> 
   E também estou estudando Spring e React no Bootcamp da <strong>Devsuperior</strong></p>
  
