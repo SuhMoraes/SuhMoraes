@@ -17,26 +17,11 @@
   
 <p>
   
-  Meu nome é Suhailah Alves de Moraes e moro na região de Londrina, Paraná. <br />
-  Cursando 3° Semestre <strong> Tecnólogo em Análise e Desenvolvimento de Sistemas</strong>, na Unopar. <br /> 
-  Atualmente sou Dev Java Junior, na empresa Ci&T  <br /> 
+  Meu nome é Suhailah Alves de Moraes e moro na região de Londrina, Paraná.
+  Cursando 3° Semestre <strong> Tecnólogo em Análise e Desenvolvimento de Sistemas</strong>, na Unopar.
+  Atualmente sou Dev Java Junior, na empresa Ci&T. 
   E também estou estudando Spring e React no Bootcamp da <strong>Devsuperior</strong></p>
  
-
-
-
-
-
-
-<p><strong>Curiosidades sobre mim:</strong></p>
-<p>🎓 Participei da formação de Desenvolvedor full stack pelo programa RecodePro.</p>
-<p>🎓 Estudando Spring e React com  DevSuperior.</p>
-<p>📖 Java para iniciantes - Oracle </p>
-<p>🎮 Fortnite, Pes 2020, FIFA 2019, Need for Speed e GTA (Jogo quando posso) </p>
-<p>☁️ Quero aprender a ensinar</p>
-<br />
-
-
 
 _💭 "Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecimento." 💭_
 
@@ -48,7 +33,6 @@ _💭 "Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecime
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <br />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" /> 
