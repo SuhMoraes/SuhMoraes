@@ -60,14 +60,6 @@ _💭 "Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecime
   
   
 
- <center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhMoraes&hide=html&layout=compact&theme=tokyonight" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=SuhMoraes&theme=tokyonight"/></td>
-    </tr>   
-</table>
-</center> 
 
 <hr>
   
