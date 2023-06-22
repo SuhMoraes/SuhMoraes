@@ -18,9 +18,8 @@
 <p>
   
   Meu nome é Suhailah Alves de Moraes.
-  Cursando 4° Semestre <strong> Tecnólogo em Análise e Desenvolvimento de Sistemas</strong>, na Unopar.
-  Atualmente sou Dev Java Junior, na empresa Ci&T. 
-  E também estou estudando Spring e React no Bootcamp da <strong>Devsuperior</strong></p>
+  Formada em <strong> Análise e Desenvolvimento de Sistemas</strong>, na Unopar.
+  Sou Desenvolvedor Java. E sigo estudando Spring e React do <strong>Devsuperior</strong></p>
  
 
 _💭 "Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecimento." 💭_
