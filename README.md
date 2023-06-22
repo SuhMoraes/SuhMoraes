@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá 👋, eu sou o Suh Moraes</h1>
+<h1 align="center">Olá 👋, eu sou Suhailah Moraes</h1>
   
 
 <span>
@@ -17,9 +17,10 @@
   
 <p>
   
-  Meu nome é Suhailah Alves de Moraes.
-  Formada em <strong> Análise e Desenvolvimento de Sistemas</strong>, na Unopar.
-  Sou Desenvolvedor Java. E sigo estudando Spring e React do <strong>Devsuperior</strong></p>
+  Meu nome é Suhailah . <br />
+  Formada em <strong> Análise e Desenvolvimento de Sistemas</strong>, na Unopar. <br />
+  Sou Desenvolvedor Java.  <br />
+  Sigo estudando Spring e React do <strong>Devsuperior</strong></p> <br />
  
 
 _💭 "Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecimento." 💭_
