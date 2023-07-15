@@ -1,7 +1,51 @@
 
 <h1 align="center">Olá 👋, eu sou Suhailah Moraes</h1>
-  
+<br />
 
+- 🌱 Atualmente estou aprendendo: AWS, Mensageria, Teste unitários.
+- 🤔 Estou procurando ajuda com Mensageria.
+- 📚 Estou lendo: 'Entendendo Algoritmos'.
+- 💬 Pergunte-me sobre Séries, Filmes.
+- ⚡ Curiosidade: Gosto de  estudar sobre teorias da conspiração.
+
+  
+ </span> 
+ <hr /> 
+
+
+ <br>
+  <h2><strong>👨🏽‍💻Tecnologias e Ferramentas:</strong></h2>
+<span>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+            <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
+            <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />   
+            <img  height="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />          
+            <img  height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />            
+            <img  height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />              
+            <img height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />                     
+            <img  height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />            
+            <img  height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" />                 
+            <img  height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />            
+            <img  height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />                  
+            <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />            
+            <img  height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+          
+</span>
+<br />
+<br />
+ 
+<hr />
+  <div>
+<a href="https://github.com/suhmoraes">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhmoraes&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhMoraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+  
+<br />
 <span>
   <a href="https://bit.ly/linkedin-suhmoraes">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt ="Linkedin Suhailah Conceição"> <a>
@@ -10,62 +54,16 @@
   <a href="mailto:dev.suhmoraes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt ="Linkedin Suhailah Conceição" > 
    </a>    
-  
- </span> 
-  <br />
-
-  
-<p>
-  
-  Meu nome é Suhailah . <br />
-  Formada em <strong> Análise e Desenvolvimento de Sistemas</strong>, na Unopar. <br />
-  Sou Desenvolvedor Java.  <br />
-  Sigo estudando Spring e React do <strong>Devsuperior</strong></p> <br />
- 
-
-_💭 "Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecimento." 💭_
-
-<p>Albert Einstein</P>
- <br>
-  <p><strong>👨🏽‍💻Hard Skills:</strong></p>
-<span>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-</span>
-<br />
-<br />
-
-<p><strong>⚙️Tools:</strong></p>
-<span>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-FE7A16?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-3776AB?style=flat&logo=Visual-Studio-Code&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Eclipse-430098?style=flat&logo=eclipse&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/SpringTool-23b164?style=flat&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Intellij-751F83?style=flat&logo=intellij&logoColor=purple"/>  
-</span>
-<br /> 
-<br />
- 
-
-
-
-  
-  
-
 
 <hr>
   
    ![SuhMoraes View](https://komarev.com/ghpvc/?username=SuhMoraes-github-username&style=plastic)
 
 <hr>
+
+_💭 "Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecimento." 💭_
+
+<p>Albert Einstein</P>
 
 
 
