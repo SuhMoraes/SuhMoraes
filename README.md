@@ -2,7 +2,7 @@
 <h1 align="center">Olá 👋, eu sou Suhailah Moraes</h1>
 <br />
 
-- 🌱 Atualmente estou aprendendo: AWS, Mensageria, Teste unitários.
+- 🌱 Atualmente estou aprendendo: AWS, Mensageria, Testes unitários.
 - 🤔 Estou procurando ajuda com Mensageria.
 - 📚 Estou lendo: 'Entendendo Algoritmos'.
 - 💬 Pergunte-me sobre Séries, Filmes.
