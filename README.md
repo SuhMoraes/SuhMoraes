@@ -6,7 +6,7 @@
 - 🤔 Estou procurando ajuda com Mensageria.
 - 📚 Estou lendo: 'Entendendo Algoritmos'.
 - 💬 Pergunte-me sobre Séries, Filmes.
-- ⚡ Curiosidade: Além de codar, amor cozinhar.
+- ⚡ Curiosidade: Além de codar, amo cozinhar.
 
   
  </span> 
