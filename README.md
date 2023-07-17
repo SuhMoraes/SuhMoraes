@@ -1,6 +1,6 @@
 
 <h1 align="center">Olá 👋, eu sou Suhailah Moraes</h1>
-<h3 align="center">Um apaixonado desenvolvedor backend de Londrina - PR</h3>
+<h3 align="center"> Uma mera desenvolvedora backend de Londrina - PR</h3>
 <br />
 
 - 🌱 Atualmente estou aprendendo: **AWS, Mensageria, Testes unitários.**
