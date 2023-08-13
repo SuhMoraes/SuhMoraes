@@ -29,7 +29,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhmoraes&label=Profile%20views&color=0e75b6&style=flat" alt="suhmoraes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suhmoraes" alt="suhmoraes" /></a> </p>
 
 _💭 "Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecimento." 💭_
 
